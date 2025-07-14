@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/superbot/worker.py", line 13, in <module>
+    from rq.middleware import Middleware
+ModuleNotFoundError: No module named 'rq.middleware'

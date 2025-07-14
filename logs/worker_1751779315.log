@@ -1,0 +1,10 @@
+2025-07-06 05:21:55,839 - telethon.crypto.aes - INFO - [PID:46202] - libssl detected, it will be used for encryption
+✅ Módulo shared.py carregado com otimizações para alta concorrência
+2025-07-06 05:21:56,348 - tasks - INFO - [PID:46202] - msgpack disponível - usando serialização binária otimizada
+2025-07-06 05:21:56,349 - tasks - INFO - [PID:46202] - ✅ Sistema de tasks inicializado com otimizações para alta concorrência
+2025-07-06 05:21:56,349 - tasks - INFO - [PID:46202] - 📊 Configurações: timeout=300s, result_ttl=3600s, max_retries=3
+2025-07-06 05:21:56,366 - tasks - INFO - [PID:46202] - Limpeza concluída: {'failed': 0, 'finished': 0, 'scheduled': 1}
+2025-07-06 05:21:56,422 - v4 - INFO - [PID:46202] - Módulo v4.py importado - inicializando dependências...
+2025-07-06 05:21:56,486 - v4 - INFO - [PID:46202] - Banco de dados inicializado
+2025-07-06 05:21:56,486 - v4 - INFO - [PID:46202] - Dependências do worker configuradas com sucesso
+2025-07-06 05:21:56,487 - __main__ - INFO - [PID:46202] - ✅ Módulo v4.py importado - dependências configuradas

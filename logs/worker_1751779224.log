@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/superbot/worker.py", line 14, in <module>
+    from rq.exceptions import WorkerException
+ImportError: cannot import name 'WorkerException' from 'rq.exceptions' (/home/ubuntu/superbot/venv/lib/python3.12/site-packages/rq/exceptions.py)

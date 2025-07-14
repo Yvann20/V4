@@ -1,0 +1,35 @@
+nohup: ignoring input
+[0;34m[06:44:08][0m ⚙️ Iniciando worker: worker-1751784248
+[0;34m[06:44:08][0m 📋 Logs: logs/worker_1751784248.log
+2025-07-06 06:44:09,340 - telethon.crypto.aes - INFO - [PID:73521] - libssl detected, it will be used for encryption
+✅ Módulo shared.py carregado com otimizações para alta concorrência
+2025-07-06 06:44:10,294 - tasks - INFO - [PID:73521] - msgpack disponível - usando serialização binária otimizada
+2025-07-06 06:44:10,295 - tasks - INFO - [PID:73521] - ✅ Sistema de tasks inicializado com otimizações para alta concorrência
+2025-07-06 06:44:10,295 - tasks - INFO - [PID:73521] - 📊 Configurações: timeout=300s, result_ttl=3600s, max_retries=3
+2025-07-06 06:44:10,417 - v4 - INFO - [PID:73521] - Módulo v4.py importado - inicializando dependências...
+2025-07-06 06:44:10,484 - v4 - INFO - [PID:73521] - Banco de dados inicializado
+2025-07-06 06:44:10,485 - v4 - INFO - [PID:73521] - Dependências do worker configuradas com sucesso
+2025-07-06 06:44:10,485 - __main__ - INFO - [PID:73521] - ✅ Módulo v4.py importado - dependências configuradas
+sucesso
+2025-07-06 06:44:10,485 - __main__ - INFO - [PID:73521] - ✅ Módulo v4.py importado - dependências configuradas
+2025-07-06 07:18:47,689 - __main__ - INFO - [PID:86123] - ✅ Conexão com Redis estabelecida com sucesso
+2025-07-06 07:18:48,197 - telethon.crypto.aes - INFO - [PID:86123] - libssl detected, it will be used for encryption
+2025-07-06 07:18:48,702 - tasks - INFO - [PID:86123] - msgpack disponível - usando serialização binária otimizada
+2025-07-06 07:18:48,703 - tasks - INFO - [PID:86123] - ✅ Sistema de tasks inicializado com otimizações para alta concorrência
+2025-07-06 07:18:48,703 - tasks - INFO - [PID:86123] - 📊 Configurações: timeout=300s, result_ttl=3600s, max_retries=3
+2025-07-06 07:18:48,807 - v4 - INFO - [PID:86123] - Módulo v4.py importado - inicializando dependências...
+2025-07-06 07:18:48,876 - v4 - INFO - [PID:86123] - Banco de dados inicializado
+2025-07-06 07:18:48,876 - v4 - INFO - [PID:86123] - Dependências do worker configuradas com sucesso
+2025-07-06 07:18:48,876 - __main__ - INFO - [PID:86123] - ✅ Módulo v4.py importado - dependências configuradas
+2025-07-06 07:18:48,877 - __main__ - INFO - [PID:86123] - 🚀 Iniciando worker RQ para processamento de tarefas
+2025-07-06 07:18:48,877 - __main__ - INFO - [PID:86123] - ⚙️ Iniciando worker para escutar filas: bot_tasks, high_priority, low_priority
+2025-07-06 07:18:48,878 - rq.worker - INFO - [PID:86123] - Worker rq:worker:3341a5ed82c9411bbe9e0dbdc4448698 started with PID 86123, version 1.15.1
+2025-07-06 07:18:48,879 - rq.worker - INFO - [PID:86123] - Subscribing to channel rq:pubsub:3341a5ed82c9411bbe9e0dbdc4448698
+2025-07-06 07:18:48,880 - rq.worker - INFO - [PID:86123] - *** Listening on [32mbot_tasks, high_priority, low_priority[39;49;00m...
+2025-07-06 07:18:48,888 - rq.scheduler - INFO - [PID:86130] - Scheduler for high_priority, bot_tasks, low_priority started with PID 86130
+2025-07-06 07:18:48,889 - rq.worker - INFO - [PID:86123] - Cleaning registries for queue: high_priority
+2025-07-06 07:18:48,892 - rq.worker - INFO - [PID:86123] - Cleaning registries for queue: low_priority
+2025-07-06 07:19:08,912 - rq.worker - ERROR - [PID:86123] - Worker rq:worker:3341a5ed82c9411bbe9e0dbdc4448698: Redis connection timeout, quitting...
+2025-07-06 07:19:09,911 - rq.scheduler - INFO - [PID:86130] - Scheduler stopping, releasing locks for high_priority, low_priority...
+2025-07-06 07:19:09,912 - rq.scheduler - INFO - [PID:86130] - Scheduler with PID 86130 has stopped
+2025-07-06 07:19:09,916 - rq.worker - INFO - [PID:86123] - Unsubscribing from channel rq:pubsub:3341a5ed82c9411bbe9e0dbdc4448698

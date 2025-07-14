@@ -1,0 +1,10 @@
+2025-07-06 06:36:10,831 - telethon.crypto.aes - INFO - [PID:69064] - libssl detected, it will be used for encryption
+✅ Módulo shared.py carregado com otimizações para alta concorrência
+2025-07-06 06:36:11,331 - tasks - INFO - [PID:69064] - msgpack disponível - usando serialização binária otimizada
+2025-07-06 06:36:11,332 - tasks - INFO - [PID:69064] - ✅ Sistema de tasks inicializado com otimizações para alta concorrência
+2025-07-06 06:36:11,333 - tasks - INFO - [PID:69064] - 📊 Configurações: timeout=300s, result_ttl=3600s, max_retries=3
+2025-07-06 06:36:11,349 - tasks - INFO - [PID:69064] - Limpeza concluída: {'failed': 0, 'finished': 0, 'scheduled': 1}
+2025-07-06 06:36:11,406 - v4 - INFO - [PID:69064] - Módulo v4.py importado - inicializando dependências...
+2025-07-06 06:36:11,470 - v4 - INFO - [PID:69064] - Banco de dados inicializado
+2025-07-06 06:36:11,471 - v4 - INFO - [PID:69064] - Dependências do worker configuradas com sucesso
+2025-07-06 06:36:11,471 - __main__ - INFO - [PID:69064] - ✅ Módulo v4.py importado - dependências configuradas

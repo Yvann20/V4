@@ -1,0 +1,14 @@
+nohup: ignoring input
+/home/ubuntu/superbot/venv/lib/python3.12/site-packages/click/core.py:1193: UserWarning: The parameter --serializer is used more than once. Remove its duplicate as parameters should be unique.
+  parser = self.make_parser(ctx)
+/home/ubuntu/superbot/venv/lib/python3.12/site-packages/click/core.py:1193: UserWarning: The parameter -S is used more than once. Remove its duplicate as parameters should be unique.
+  parser = self.make_parser(ctx)
+/home/ubuntu/superbot/venv/lib/python3.12/site-packages/click/core.py:1186: UserWarning: The parameter --serializer is used more than once. Remove its duplicate as parameters should be unique.
+  self.parse_args(ctx, args)
+/home/ubuntu/superbot/venv/lib/python3.12/site-packages/click/core.py:1186: UserWarning: The parameter -S is used more than once. Remove its duplicate as parameters should be unique.
+  self.parse_args(ctx, args)
+07:23:26 Worker rq:worker:9833bd486f264a6c97d10d12b3285d3a started with PID 86687, version 1.15.1
+07:23:26 Subscribing to channel rq:pubsub:9833bd486f264a6c97d10d12b3285d3a
+07:23:26 *** Listening on bot_tasks...
+07:23:26 Cleaning registries for queue: bot_tasks
+07:23:26 Scheduler for bot_tasks started with PID 86690
